@@ -1,0 +1,4 @@
+.DS_STORE
+coverage.out
+examples/tmp
+internal/testleak/tmp

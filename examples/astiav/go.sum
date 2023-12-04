@@ -1,0 +1,11 @@
+github.com/asticode/go-astiav v0.12.0 h1:tETfPhVpJrSyh3zvUOmDvebFaCoFpeATSaQAA7B50J8=
+github.com/asticode/go-astiav v0.12.0/go.mod h1:phvUnSSlV91S/PELeLkDisYiRLOssxWOsj4oDrqM/54=
+github.com/asticode/go-astikit v0.34.1/go.mod h1:h4ly7idim1tNhaVkdVBeXQZEE3L0xblP7fCWbgwipF0=
+github.com/asticode/go-astikit v0.42.0 h1:pnir/2KLUSr0527Tv908iAH6EGYYrYta132vvjXsH5w=
+github.com/asticode/go-astikit v0.42.0/go.mod h1:h4ly7idim1tNhaVkdVBeXQZEE3L0xblP7fCWbgwipF0=
+github.com/asticode/go-astilog v1.10.1 h1:Ev8ucSk9xSPbtTqH+oDv/zNvlOvx4QdVyhWlH0eUuMA=
+github.com/asticode/go-astilog v1.10.1/go.mod h1:p6fC/wpszfqqJLPhhaK7SsHNCMUUzX338SwMk+lAl/E=
+github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
+github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
+github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
