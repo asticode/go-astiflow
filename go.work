@@ -1,0 +1,18 @@
+go 1.22.0
+
+use (
+	./examples/astiav
+	./internal/cmd/dev
+	./pkg/astiflow
+	./pkg/libs/astiav
+	./pkg/plugins/monitor/monitorer
+	./pkg/plugins/monitor/replay
+	./pkg/plugins/monitor/server
+	./pkg/stats/psutil
+)
+
+replace github.com/asticode/go-astikit => ../go-astikit
+
+replace github.com/asticode/go-astiws => ../go-astiws
+
+replace github.com/asticode/go-astiav => ../go-astiav

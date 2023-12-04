@@ -1,0 +1,33 @@
+:root {
+  --color1: #4EBD8C;
+  --color2: #353740;
+  --color3: #ececf1;
+  --color4: #ffffff;
+  --color5: #db3915;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  font-weight: 300;
+  margin: 0;
+  transition: all 0.5s ease;
+}
+
+::placeholder {
+  opacity: 0.5;
+}
+
+body {
+  color: var(--color2);
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  height: 100vh;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
